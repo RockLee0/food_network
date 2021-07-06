@@ -43,29 +43,20 @@ div img{
     width: 85%;
     padding-left:40px;    
 }
-.dream{
+.About{
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
     background-position: right;
 }
 
-.box h1{
-    font-weight 900px;
-    color: coral;
-}
-.box div{
-    width: 40%;
-    margin-right: 5%;
-    margin-left: 5%;
-    padding-left: 20px;
-    
-   
-}
+
+
+
 .expo h1{
-color: rgb(0, 0, 0);
-margin-left: 15px;
-text-align: center;
-    
+    color: rgb(0, 0, 0);
+    margin-left: 15px;
+    text-align: center;
+        
 }
 .glimps{
     padding: 5px 40px 10px 40px;
@@ -96,14 +87,7 @@ text-align: center;
     font-size: 10px;
     padding:10px;
 }
-.ex{
 
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,118,0.4991130241158963) 50%, rgba(0,212,255,1) 100%); 
-}
-.pro{
-    border-left: steelblue solid 5px;
-}
 footer{
     text-align: center;
     background-color: gray;
